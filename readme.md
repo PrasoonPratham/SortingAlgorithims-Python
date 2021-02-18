@@ -6,6 +6,9 @@ This a Github Repository with code for my attempts for commonly used sorting alg
 
 * Python 2.x/3.x
 
+### Algorithims in this repository
+- Bogosort
+
 ### Executing program
 
 ```
