@@ -1,10 +1,11 @@
 import random
 import pickle
 
-randomlist = []
+list=[]
+for i in range(3000):
+    r=random.randint(1,10000000)
+    if r not in list: list.append(r)
 
-for i in range(0, 3000):
-    n = random.randint(1, 500)
-    randomlist.append(n)
+print(len(list))
 
-pickle.dump( randomlist, open( "save.p", "wb" ) )
+pickle.dump( list, open( "save.p", "wb" ) )
