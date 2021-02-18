@@ -1,6 +1,6 @@
 # Sorting Algorithims in Python
 
-This a Github Repository with code for my attempts at writing code for commonly used sorting algorithims
+This a Github Repository with code for my attempts for commonly used sorting algorithims
 
 ### Dependencies
 
