@@ -1,7 +1,7 @@
 import pickle
 import random
 
-list = pickle.load( open( "save.p", "rb" ) )
+list = pickle.load( open( "list.p", "rb" ) )
 print(f"{len(list)} values")
 
 while True:
