@@ -16,7 +16,7 @@ $ python file.py
 ## Authors
 
 Pratham Prasoon  
-[@PrasoonPratham](https://twitter.com/PrasoonPratham)
+- [@PrasoonPratham](https://twitter.com/PrasoonPratham)
 
 ## License
 
