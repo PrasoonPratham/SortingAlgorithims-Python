@@ -1,12 +1,12 @@
-# Sorting Algorithims in Python
+# Sorting Algorithms in Python
 
-This a Github Repository with code for my attempts for commonly used sorting algorithims, tested on a list with 3000 randomly generated numbers.
+This a Github Repository with code for my attempts for commonly used sorting algorithms, tested on a list with 3000 randomly generated numbers.
 
 ### Dependencies
 
 * Python 2.x/3.x
 
-### Algorithims in this repository
+### Algorithms in this repository
 - Bogosort
 
 ### Executing program
